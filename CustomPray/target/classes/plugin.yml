@@ -1,7 +1,0 @@
-name: CustomPray
-version: '1.0-SNAPSHOT'
-main: top.ilhyc.CustomPray
-description: just the prayer
-commands:
-  pray:
-    description: 只是祈愿
